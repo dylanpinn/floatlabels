@@ -75,17 +75,17 @@ Using `type: 'outside'` automatically sets the following:
 This will overwrite any custom options you have set for these values with the above.
 
 #### More info
-*More documentation can be found at [http://clubdesign.github.io/floatlabels.js](http://clubdesign.github.io/floatlabels.js).*
+*More documentation can be found at [https://github.com/derpoho/floatlabels.js](https://github.com/derpoho/floatlabels.js).*
 
 ## Credit
 All credit goes to Marcus Poherely. This is simply a gemified version of his code with some slightly different defaults.
 
- - URL: http://clubdesign.github.io/floatlabels.js/
+ - URL: https://github.com/derpoho/floatlabels.js/
  - Author: Marcus Pohorely ( http://www.clubdesign.at )
  - Copyright: Copyright 2013 / 2014 http://www.clubdesign.at
  - Adapted for bootstrap projects by Michael Levin 2/20/14
  - Slightly modified and gemified by Matt Cameron 15-Mar-2016
- 
+
 
 ## License
 
